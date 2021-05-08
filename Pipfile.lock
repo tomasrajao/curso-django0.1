@@ -28,7 +28,7 @@
             "hashes": [
                 "sha256:0a1d195ad65c52bf275b8277b3d49680bd1137a5f55039a806f25f6b9752ce3d",
                 "sha256:18dd3145ddbd04bf189ff79b9954d08fda5171ea7b57bf705789fea766a07d50"
-            ],
+git push heroku tes            ],
             "version": "==3.2.2"
         },
         "pytz": {
