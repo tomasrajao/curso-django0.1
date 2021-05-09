@@ -4,13 +4,13 @@ verify_ssl = true
 name = "pypi"
 
 [packages]
-pytest = "*"
-pytest-cov = "*"
 gunicorn = "*"
 django = "*"
 
 [dev-packages]
 flake8 = "*"
+pytest = "*"
+pytest-cov = "*"
 
 [requires]
 python_version = "3.9"
